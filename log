@@ -1,0 +1,192 @@
+
+ -------------------------Namespace(batch_size=32, debug=False, epochs=30, gpu='0', loadw='', loss='l2_im_naive', lr=None, model='full', optimizer='adam', resume='', save_dir='', save_freq=5, start_epoch=0, weight_decay=0.001, workers=32)
+ -------------------------Namespace(batch_size=32, debug=False, epochs=30, gpu='0', loadw='', loss='l2_im_naive', lr=None, model='full', optimizer='adam', resume='', save_dir='', save_freq=5, start_epoch=0, weight_decay=0.001, workers=32)
+ -------------------------Namespace(batch_size=32, debug=False, epochs=30, gpu='0', loadw='', loss='l2_im_naive', lr=None, model='full', optimizer='adam', resume='', save_dir='', save_freq=5, start_epoch=0, weight_decay=0.001, workers=32)
+ -------------------------Namespace(batch_size=32, debug=False, epochs=30, gpu='0', loadw='', loss='l2_im_naive', lr=None, model='full', optimizer='adam', resume='', save_dir='', save_freq=5, start_epoch=0, weight_decay=0.001, workers=32)
+ -------------------------Namespace(batch_size=32, debug=False, epochs=30, gpu='0', loadw='', loss='l2_im_naive', lr=None, model='full', optimizer='adam', resume='', save_dir='', save_freq=5, start_epoch=0, weight_decay=0.001, workers=32)
+ -------------------------Namespace(batch_size=32, debug=False, epochs=30, gpu='0', loadw='', loss='l2_im_naive', lr=None, model='full', optimizer='adam', resume='', save_dir='', save_freq=5, start_epoch=0, weight_decay=0.001, workers=32)
+ -------------------------Namespace(batch_size=32, debug=False, epochs=30, gpu='0', loadw='', loss='l2_im_naive', lr=None, model='full', optimizer='adam', resume='', save_dir='', save_freq=5, start_epoch=0, weight_decay=0.001, workers=32)
+ -------------------------Namespace(batch_size=32, debug=False, epochs=30, gpu='0', loadw='', loss='l2_im_naive', lr=None, model='full', optimizer='adam', resume='', save_dir='', save_freq=5, start_epoch=0, weight_decay=0.001, workers=32)
+ -------------------------Namespace(batch_size=32, debug=False, epochs=30, gpu='0', loadw='', loss='l2_im_naive', lr=None, model='full', optimizer='adam', resume='', save_dir='', save_freq=5, start_epoch=0, weight_decay=0.001, workers=32)
+ -------------------------Namespace(batch_size=32, debug=False, epochs=30, gpu='0', loadw='', loss='l2_im_naive', lr=None, model='full', optimizer='adam', resume='', save_dir='', save_freq=5, start_epoch=0, weight_decay=0.001, workers=32)
+ -------------------------Namespace(batch_size=32, debug=False, epochs=30, gpu='0', loadw='', loss='l2_im_naive', lr=None, model='full', optimizer='adam', resume='', save_dir='', save_freq=5, start_epoch=0, weight_decay=0.001, workers=32)
+ -------------------------Namespace(batch_size=32, debug=False, epochs=30, gpu='0', loadw='', loss='l2_im_naive', lr=None, model='full', optimizer='adam', resume='', save_dir='', save_freq=5, start_epoch=0, weight_decay=0.001, workers=32)
+ -------------------------Namespace(batch_size=32, debug=False, epochs=30, gpu='0', loadw='', loss='l2_im_naive', lr=None, model='full', optimizer='adam', resume='', save_dir='', save_freq=5, start_epoch=0, weight_decay=0.001, workers=32)Train Epoch 1, time 41.1, loss 0.20041, lossid 0: 0.20041 lr 0.00100
+
+ -------------------------Namespace(batch_size=32, debug=False, epochs=30, gpu='0', loadw='', loss='l2_im_naive', lr=None, model='full', optimizer='adam', resume='', save_dir='', save_freq=5, start_epoch=0, weight_decay=0.001, workers=32)Train Epoch 1, time 7.6, loss 0.17742, lossid 0: 0.17742 lr 0.00100
+Val   Epoch 1, time 8.6, loss 0.18462, lossid 0: 0.18462, Eval L2: 0.18462, Eval L1: 0.38155
+Train Epoch 2, time 6.8, loss 0.16714, lossid 0: 0.16714 lr 0.00100
+Val   Epoch 2, time 8.6, loss 0.18674, lossid 0: 0.18674, Eval L2: 0.18674, Eval L1: 0.38783
+Train Epoch 3, time 6.7, loss 0.12640, lossid 0: 0.12640 lr 0.00100
+Val   Epoch 3, time 8.9, loss 0.39394, lossid 0: 0.39394, Eval L2: 0.39394, Eval L1: 0.58720
+Train Epoch 4, time 6.7, loss 0.01125, lossid 0: 0.01125 lr 0.00100
+Val   Epoch 4, time 8.6, loss 0.26587, lossid 0: 0.26587, Eval L2: 0.26587, Eval L1: 0.44802
+Train Epoch 5, time 6.9, loss 0.00515, lossid 0: 0.00515 lr 0.00100
+Val   Epoch 5, time 8.7, loss 0.35269, lossid 0: 0.35269, Eval L2: 0.35269, Eval L1: 0.52373
+Train Epoch 6, time 6.9, loss 0.00545, lossid 0: 0.00545 lr 0.00100
+Val   Epoch 6, time 8.6, loss 0.32632, lossid 0: 0.32632, Eval L2: 0.32632, Eval L1: 0.50404
+Train Epoch 7, time 6.8, loss 0.00590, lossid 0: 0.00590 lr 0.00100
+
+ -------------------------Namespace(batch_size=32, debug=False, epochs=30, gpu='0', loadw='', loss='l2_im_naive', lr=None, model='full', optimizer='adam', resume='', save_dir='', save_freq=5, start_epoch=0, weight_decay=0.001, workers=32)
+ -------------------------Namespace(batch_size=32, debug=False, epochs=30, gpu='0', loadw='', loss='l2_im_naive', lr=None, model='full', optimizer='adam', resume='', save_dir='', save_freq=5, start_epoch=0, weight_decay=0.001, workers=32)
+ -------------------------Namespace(batch_size=32, debug=False, epochs=30, gpu='0', loadw='', loss='l2_im_naive', lr=None, model='full', optimizer='adam', resume='', save_dir='', save_freq=5, start_epoch=0, weight_decay=0.001, workers=32)
+ -------------------------Namespace(batch_size=32, debug=False, epochs=30, gpu='0', loadw='', loss='l2_im_naive', lr=None, model='full', optimizer='adam', resume='', save_dir='', save_freq=5, start_epoch=0, weight_decay=0.001, workers=32)
+ -------------------------Namespace(batch_size=32, debug=False, epochs=30, gpu='0', loadw='', loss='l2_im_naive', lr=None, model='full', optimizer='adam', resume='', save_dir='', save_freq=5, start_epoch=0, weight_decay=0.001, workers=32)
+ -------------------------Namespace(batch_size=32, debug=False, epochs=30, gpu='0', loadw='', loss='l2_im_naive', lr=None, model='full', optimizer='adam', resume='', save_dir='', save_freq=5, start_epoch=0, weight_decay=0.001, workers=32)Train Epoch 1, time 3.7, loss 0.18749, lossid 0: 0.18749 lr 0.00100
+Val   Epoch 1, time 1.4, loss 0.20263, lossid 0: 0.20263, Eval L2: 0.20263, Eval L1: 0.39622
+Train Epoch 2, time 2.9, loss 0.17687, lossid 0: 0.17687 lr 0.00100
+Val   Epoch 2, time 1.4, loss 0.20158, lossid 0: 0.20158, Eval L2: 0.20158, Eval L1: 0.39940
+Train Epoch 3, time 3.0, loss 0.14043, lossid 0: 0.14043 lr 0.00100
+Val   Epoch 3, time 1.5, loss 0.27357, lossid 0: 0.27357, Eval L2: 0.27357, Eval L1: 0.46446
+Train Epoch 4, time 2.9, loss 0.01240, lossid 0: 0.01240 lr 0.00100
+Val   Epoch 4, time 1.4, loss 0.31182, lossid 0: 0.31182, Eval L2: 0.31182, Eval L1: 0.50344
+Train Epoch 5, time 3.0, loss 0.00584, lossid 0: 0.00584 lr 0.00100
+Val   Epoch 5, time 1.5, loss 0.34167, lossid 0: 0.34167, Eval L2: 0.34167, Eval L1: 0.51351
+Train Epoch 6, time 2.9, loss 0.00516, lossid 0: 0.00516 lr 0.00100
+Val   Epoch 6, time 1.3, loss 0.30710, lossid 0: 0.30710, Eval L2: 0.30710, Eval L1: 0.48014
+Train Epoch 7, time 2.9, loss 0.00610, lossid 0: 0.00610 lr 0.00100
+Val   Epoch 7, time 1.3, loss 0.33834, lossid 0: 0.33834, Eval L2: 0.33834, Eval L1: 0.50832
+
+ -------------------------Namespace(batch_size=32, debug=False, epochs=30, gpu='0', loadw='', loss='l2_im_naive', lr=None, model='full', optimizer='adam', resume='', save_dir='', save_freq=5, start_epoch=0, weight_decay=0.001, workers=32)
+ -------------------------Namespace(batch_size=32, debug=False, epochs=30, gpu='0', loadw='', loss='l2_im_naive', lr=None, model='full', optimizer='adam', resume='', save_dir='', save_freq=5, start_epoch=0, weight_decay=0.001, workers=32)
+ -------------------------Namespace(batch_size=32, debug=False, epochs=30, gpu='0', loadw='', loss='l2_im_naive', lr=None, model='full', optimizer='adam', resume='', save_dir='', save_freq=5, start_epoch=0, weight_decay=0.001, workers=32)Train Epoch 1, time 3.6, loss 0.27423, lossid 0: 0.27423 lr 0.00100
+Val   Epoch 1, time 1.6, loss 0.23444, lossid 0: 0.23444, Eval L2: 0.23444, Eval L1: 0.40703
+Train Epoch 2, time 3.1, loss 0.26138, lossid 0: 0.26138 lr 0.00100
+Val   Epoch 2, time 1.7, loss 0.22881, lossid 0: 0.22881, Eval L2: 0.22881, Eval L1: 0.40547
+Train Epoch 3, time 3.2, loss 0.15382, lossid 0: 0.15382 lr 0.00100
+Val   Epoch 3, time 1.7, loss 0.33897, lossid 0: 0.33897, Eval L2: 0.33897, Eval L1: 0.47452
+Train Epoch 4, time 3.3, loss 0.01189, lossid 0: 0.01189 lr 0.00100
+Val   Epoch 4, time 1.5, loss 0.34706, lossid 0: 0.34706, Eval L2: 0.34706, Eval L1: 0.52609
+Train Epoch 5, time 3.3, loss 0.00672, lossid 0: 0.00672 lr 0.00100
+Val   Epoch 5, time 1.5, loss 0.29362, lossid 0: 0.29362, Eval L2: 0.29362, Eval L1: 0.46448
+Train Epoch 6, time 2.8, loss 0.00584, lossid 0: 0.00584 lr 0.00100
+Val   Epoch 6, time 1.5, loss 0.34097, lossid 0: 0.34097, Eval L2: 0.34097, Eval L1: 0.51480
+Train Epoch 7, time 3.0, loss 0.00694, lossid 0: 0.00694 lr 0.00100
+Val   Epoch 7, time 1.6, loss 0.33555, lossid 0: 0.33555, Eval L2: 0.33555, Eval L1: 0.50877
+
+ -------------------------Namespace(batch_size=32, debug=False, epochs=30, gpu='0', loadw='', loss='l2_im_naive', lr=None, model='full', optimizer='adam', resume='', save_dir='', save_freq=5, start_epoch=0, weight_decay=0.001, workers=32)Train Epoch 1, time 3.5, loss 0.15454, lossid 0: 0.15454 lr 0.00100
+Val   Epoch 1, time 1.3, loss 0.21638, lossid 0: 0.21638, Eval L2: 0.21638, Eval L1: 0.42449
+Train Epoch 2, time 2.6, loss 0.14491, lossid 0: 0.14491 lr 0.00100
+Val   Epoch 2, time 1.2, loss 0.21126, lossid 0: 0.21126, Eval L2: 0.21126, Eval L1: 0.42219
+Train Epoch 3, time 2.8, loss 0.10372, lossid 0: 0.10372 lr 0.00100
+Val   Epoch 3, time 1.3, loss 0.31059, lossid 0: 0.31059, Eval L2: 0.31059, Eval L1: 0.46589
+
+ -------------------------Namespace(batch_size=32, debug=False, epochs=30, gpu='0', loadw='', loss='l2_im_naive', lr=None, model='full', optimizer='adam', resume='', save_dir='', save_freq=5, start_epoch=0, weight_decay=0.001, workers=32)Train Epoch 1, time 3.6, loss 0.21826, lossid 0: 0.21826 lr 0.00100
+Val   Epoch 1, time 1.3, loss 0.25006, lossid 0: 0.25006, Eval L2: 0.25006, Eval L1: 0.43373
+Train Epoch 2, time 2.7, loss 0.20395, lossid 0: 0.20395 lr 0.00100
+
+ -------------------------Namespace(batch_size=32, debug=False, epochs=30, gpu='0', loadw='', loss='l2_im_naive', lr=None, model='full', optimizer='adam', resume='', save_dir='', save_freq=5, start_epoch=0, weight_decay=0.001, workers=32)Train Epoch 1, time 3.6, loss 0.20800, lossid 0: 0.20800 lr 0.00100
+Val   Epoch 1, time 1.0, loss 0.23962, lossid 0: 0.23962, Eval L2: 0.23962, Eval L1: 0.43337
+Train Epoch 2, time 2.9, loss 0.19585, lossid 0: 0.19585 lr 0.00100
+Val   Epoch 2, time 1.2, loss 0.22957, lossid 0: 0.22957, Eval L2: 0.22957, Eval L1: 0.42750
+Train Epoch 3, time 2.9, loss 0.09502, lossid 0: 0.09502 lr 0.00100
+Val   Epoch 3, time 1.2, loss 0.36381, lossid 0: 0.36381, Eval L2: 0.36381, Eval L1: 0.48977
+
+ -------------------------Namespace(batch_size=32, debug=False, epochs=30, gpu='0', loadw='', loss='l2_im_naive', lr=None, model='full', optimizer='adam', resume='', save_dir='', save_freq=5, start_epoch=0, weight_decay=0.001, workers=32)
+ -------------------------Namespace(batch_size=32, debug=False, epochs=30, gpu='0', loadw='', loss='l2_im_naive', lr=None, model='full', optimizer='adam', resume='', save_dir='', save_freq=5, start_epoch=0, weight_decay=0.001, workers=32)
+ -------------------------Namespace(batch_size=32, debug=False, epochs=30, gpu='0', loadw='', loss='l2_im_naive', lr=None, model='full', optimizer='adam', resume='', save_dir='', save_freq=5, start_epoch=0, weight_decay=0.001, workers=32)Train Epoch 1, time 5.6, loss 0.47432, lossid 0: 0.47432 lr 0.00100
+Val   Epoch 1, time 1.6, loss 0.16601, lossid 0: 0.16601, Eval L1: 0.36602, Eval L2: 0.16601
+Train Epoch 2, time 3.1, loss 0.08479, lossid 0: 0.08479 lr 0.00100
+Val   Epoch 2, time 1.6, loss 0.59200, lossid 0: 0.59200, Eval L1: 0.66053, Eval L2: 0.59004
+Train Epoch 3, time 3.2, loss 0.03642, lossid 0: 0.03642 lr 0.00100
+Val   Epoch 3, time 1.4, loss 0.49716, lossid 0: 0.49716, Eval L1: 0.61228, Eval L2: 0.49716
+Train Epoch 4, time 3.0, loss 0.03647, lossid 0: 0.03647 lr 0.00100
+Val   Epoch 4, time 1.5, loss 0.52494, lossid 0: 0.52494, Eval L1: 0.62689, Eval L2: 0.52494
+
+ -------------------------Namespace(batch_size=32, debug=False, epochs=30, gpu='0', loadw='', loss='l2_im_naive', lr=None, model='full', optimizer='adam', resume='', save_dir='', save_freq=5, start_epoch=0, weight_decay=0.001, workers=32)Train Epoch 1, time 13.4, loss 0.23744, lossid 0: 0.23744 lr 0.00100
+Val   Epoch 1, time 4.2, loss 0.34636, lossid 0: 0.34636, Eval L1: 0.45431, Eval L2: 0.34636
+Train Epoch 2, time 12.8, loss 0.20391, lossid 0: 0.20391 lr 0.00100
+Val   Epoch 2, time 4.1, loss 0.31065, lossid 0: 0.31065, Eval L1: 0.43912, Eval L2: 0.31065
+Train Epoch 3, time 12.8, loss 0.20314, lossid 0: 0.20314 lr 0.00100
+Val   Epoch 3, time 4.1, loss 0.36870, lossid 0: 0.36870, Eval L1: 0.46221, Eval L2: 0.36870
+Train Epoch 4, time 12.9, loss 0.20334, lossid 0: 0.20334 lr 0.00100
+
+ -------------------------Namespace(batch_size=32, debug=False, epochs=30, gpu='0', loadw='', loss='l2_im_naive', lr=None, model='full', optimizer='adam', resume='', save_dir='', save_freq=5, start_epoch=0, weight_decay=0.001, workers=32)Train Epoch 1, time 13.3, loss 0.24124, lossid 0: 0.24124 lr 0.00100
+
+ -------------------------Namespace(batch_size=32, debug=False, epochs=30, gpu='0', loadw='', loss='l2_im_naive', lr=None, model='full', optimizer='adam', resume='', save_dir='', save_freq=5, start_epoch=0, weight_decay=0.001, workers=32)Train Epoch 1, time 13.5, loss 0.22168, lossid 0: 0.22168 lr 0.00100
+Val   Epoch 1, time 4.0, loss 0.33765, lossid 0: 0.33765, Eval L1: 0.44859, Eval L2: 0.33765
+
+ -------------------------Namespace(batch_size=32, debug=False, epochs=30, gpu='0', loadw='', loss='l2_im_naive', lr=None, model='full', optimizer='adam', resume='', save_dir='', save_freq=5, start_epoch=0, weight_decay=0.001, workers=32)
+ -------------------------Namespace(batch_size=32, debug=False, epochs=30, gpu='0', loadw='', loss='l2_im_naive', lr=None, model='full', optimizer='adam', resume='', save_dir='', save_freq=5, start_epoch=0, weight_decay=0.001, workers=32)
+ -------------------------Namespace(batch_size=32, debug=False, epochs=30, gpu='0', loadw='', loss='l2_im_naive', lr=None, model='full', optimizer='adam', resume='', save_dir='', save_freq=5, start_epoch=0, weight_decay=0.001, workers=32)
+ -------------------------Namespace(batch_size=32, debug=False, epochs=30, gpu='0', loadw='', loss='l2_im_naive', lr=None, model='full', optimizer='adam', resume='', save_dir='', save_freq=5, start_epoch=0, weight_decay=0.001, workers=32)
+ -------------------------Namespace(batch_size=32, debug=False, epochs=30, gpu='0', loadw='', loss='l2_im_naive', lr=None, model='full', optimizer='adam', resume='', save_dir='', save_freq=5, start_epoch=0, weight_decay=0.001, workers=32)
+ -------------------------Namespace(batch_size=32, debug=False, epochs=30, gpu='0', loadw='', loss='l2_im_naive', lr=None, model='full', optimizer='adam', resume='', save_dir='', save_freq=5, start_epoch=0, weight_decay=0.001, workers=32)
+ -------------------------Namespace(batch_size=32, debug=False, epochs=30, gpu='0', loadw='', loss='l2_im_naive', lr=None, model='full', optimizer='adam', resume='', save_dir='', save_freq=5, start_epoch=0, weight_decay=0.001, workers=32)
+ -------------------------Namespace(batch_size=32, debug=False, epochs=30, gpu='0', loadw='', loss='l2_im_naive', lr=None, model='full', optimizer='adam', resume='', save_dir='', save_freq=5, start_epoch=0, weight_decay=0.001, workers=32)
+ -------------------------Namespace(batch_size=32, debug=False, epochs=30, gpu='0', loadw='', loss='l2_im_naive', lr=None, model='full', optimizer='adam', resume='', save_dir='', save_freq=5, start_epoch=0, weight_decay=0.001, workers=32)
+ -------------------------Namespace(batch_size=32, debug=False, epochs=30, gpu='0', loadw='', loss='l2_im_naive', lr=None, model='full', optimizer='adam', resume='', save_dir='', save_freq=5, start_epoch=0, weight_decay=0.001, workers=32)
+ -------------------------Namespace(batch_size=32, debug=False, epochs=30, gpu='0', loadw='', loss='l2_im_naive', lr=None, model='full', optimizer='adam', resume='', save_dir='', save_freq=5, start_epoch=0, weight_decay=0.001, workers=32)Train Epoch 1, time 150.3, loss 0.22876, lossid 0: 0.22876 lr 0.00100
+Val   Epoch 1, time 43.0, loss 0.36801, lossid 0: 0.36801, Eval L1: 0.46223, Eval L2: 0.36801
+Train Epoch 2, time 151.6, loss 0.20246, lossid 0: 0.20246 lr 0.00100
+Val   Epoch 2, time 43.0, loss 0.35562, lossid 0: 0.35562, Eval L1: 0.45793, Eval L2: 0.35562
+
+ -------------------------Namespace(batch_size=32, debug=False, epochs=30, gpu='0', loadw='', loss='l2_im_naive', lr=None, model='full', optimizer='adam', resume='', save_dir='', save_freq=5, start_epoch=0, weight_decay=0.001, workers=32)Train Epoch 1, time 13.5, loss 0.23698, lossid 0: 0.23698 lr 0.00100
+Val   Epoch 1, time 4.4, loss 0.37759, lossid 0: 0.37759, Eval L1: 0.46286, Eval L2: 0.37759
+Train Epoch 2, time 12.4, loss 0.20344, lossid 0: 0.20344 lr 0.00100
+Val   Epoch 2, time 4.3, loss 0.33826, lossid 0: 0.33826, Eval L1: 0.44820, Eval L2: 0.33826
+Train Epoch 3, time 12.9, loss 0.20321, lossid 0: 0.20321 lr 0.00100
+Val   Epoch 3, time 4.5, loss 0.39189, lossid 0: 0.39189, Eval L1: 0.47325, Eval L2: 0.39189
+Train Epoch 4, time 13.0, loss 0.20284, lossid 0: 0.20284 lr 0.00100
+
+ -------------------------Namespace(batch_size=32, debug=False, epochs=30, gpu='0', loadw='', loss='l2_im_naive', lr=None, model='full', optimizer='adam', resume='', save_dir='', save_freq=5, start_epoch=0, weight_decay=0.001, workers=32)Train Epoch 1, time 23.3, loss 0.20856, lossid 0: 0.20856 lr 0.00100
+Val   Epoch 1, time 7.2, loss 0.35213, lossid 0: 0.35213, Eval L1: 0.45653, Eval L2: 0.35213
+Train Epoch 2, time 24.1, loss 0.20114, lossid 0: 0.20114 lr 0.00100
+Val   Epoch 2, time 7.3, loss 0.35654, lossid 0: 0.35654, Eval L1: 0.45799, Eval L2: 0.35654
+Train Epoch 3, time 24.0, loss 0.20116, lossid 0: 0.20116 lr 0.00100
+Val   Epoch 3, time 7.3, loss 0.36833, lossid 0: 0.36833, Eval L1: 0.46312, Eval L2: 0.36833
+Train Epoch 4, time 23.8, loss 0.20121, lossid 0: 0.20121 lr 0.00100
+
+ -------------------------Namespace(batch_size=32, debug=False, epochs=30, gpu='0', loadw='', loss='l2_im_naive', lr=None, model='full', optimizer='adam', resume='', save_dir='', save_freq=5, start_epoch=0, weight_decay=0.001, workers=32)
+ -------------------------Namespace(batch_size=32, debug=False, epochs=30, gpu='0', loadw='', loss='l2_im_naive', lr=None, model='full', optimizer='adam', resume='', save_dir='', save_freq=5, start_epoch=0, weight_decay=0.001, workers=32)
+ -------------------------Namespace(batch_size=32, debug=False, epochs=30, gpu='0', loadw='', loss='l2_im_naive', lr=None, model='full', optimizer='adam', resume='', save_dir='', save_freq=5, start_epoch=0, weight_decay=0.001, workers=32)
+ -------------------------Namespace(batch_size=32, debug=False, epochs=30, gpu='0', loadw='', loss='l2_im_naive', lr=None, model='full', optimizer='adam', resume='', save_dir='', save_freq=5, start_epoch=0, weight_decay=0.001, workers=32)
+ -------------------------Namespace(batch_size=32, debug=False, epochs=30, gpu='0', loadw='', loss='l2_im_naive', lr=None, model='full', optimizer='adam', resume='', save_dir='', save_freq=5, start_epoch=0, weight_decay=0.001, workers=32)
+ -------------------------Namespace(batch_size=32, debug=False, epochs=30, gpu='0', loadw='', loss='l2_im_naive', lr=None, model='full', optimizer='adam', resume='', save_dir='', save_freq=5, start_epoch=0, weight_decay=0.001, workers=32)
+ -------------------------Namespace(batch_size=32, debug=False, epochs=30, gpu='0', loadw='', loss='l2_im_naive', lr=None, model='full', optimizer='adam', resume='', save_dir='', save_freq=5, start_epoch=0, weight_decay=0.001, workers=32)
+ -------------------------Namespace(batch_size=32, debug=False, epochs=30, gpu='0', loadw='', loss='l2_im_naive', lr=None, model='full', optimizer='adam', resume='', save_dir='', save_freq=5, start_epoch=0, weight_decay=0.001, workers=32)
+ -------------------------Namespace(batch_size=32, debug=False, epochs=30, gpu='0', loadw='', loss='l2_im_naive', lr=None, model='full', optimizer='adam', resume='', save_dir='', save_freq=5, start_epoch=0, weight_decay=0.001, workers=32)
+ -------------------------Namespace(batch_size=32, debug=False, epochs=30, gpu='0', loadw='', loss='l2_im_naive', lr=None, model='full', optimizer='adam', resume='', save_dir='', save_freq=5, start_epoch=0, weight_decay=0.001, workers=32)
+ -------------------------Namespace(batch_size=32, debug=False, epochs=30, gpu='0', loadw='', loss='l2_im_naive', lr=None, model='full', optimizer='adam', resume='', save_dir='', save_freq=5, start_epoch=0, weight_decay=0.001, workers=32)
+ -------------------------Namespace(batch_size=32, debug=False, epochs=30, gpu='0', loadw='', loss='l2_im_naive', lr=None, model='full', optimizer='adam', resume='', save_dir='', save_freq=5, start_epoch=0, weight_decay=0.001, workers=32)
+ -------------------------Namespace(batch_size=32, debug=False, epochs=30, gpu='0', loadw='', loss='l2_im_naive', lr=None, model='full', optimizer='adam', resume='', save_dir='', save_freq=5, start_epoch=0, weight_decay=0.001, workers=32)
+ -------------------------Namespace(batch_size=32, debug=False, epochs=30, gpu='0', loadw='', loss='l2_im_naive', lr=None, model='full', optimizer='adam', resume='', save_dir='', save_freq=5, start_epoch=0, weight_decay=0.001, workers=32)
+ -------------------------Namespace(batch_size=32, debug=False, epochs=30, gpu='0', loadw='', loss='l2_im_naive', lr=None, model='full', optimizer='adam', resume='', save_dir='', save_freq=5, start_epoch=0, weight_decay=0.001, workers=32)
+ -------------------------Namespace(batch_size=32, debug=False, epochs=30, gpu='0', loadw='', loss='l2_im_naive', lr=None, model='full', optimizer='adam', resume='', save_dir='', save_freq=5, start_epoch=0, weight_decay=0.001, workers=32)Train Epoch 1, time 2.1, loss 0.35525, lossid 0: 0.35525 lr 0.00100
+Val   Epoch 1, time 1.4, loss 0.36390, lossid 0: 0.36390, Eval L1: 0.51411, Eval L2: 0.36390
+Train Epoch 2, time 1.5, loss 0.34961, lossid 0: 0.34961 lr 0.00100
+Val   Epoch 2, time 1.4, loss 0.28294, lossid 0: 0.28294, Eval L1: 0.44558, Eval L2: 0.28294
+Train Epoch 3, time 1.5, loss 0.30075, lossid 0: 0.30075 lr 0.00100
+Val   Epoch 3, time 1.4, loss 0.39868, lossid 0: 0.39868, Eval L1: 0.57173, Eval L2: 0.39868
+Train Epoch 4, time 1.4, loss 0.33956, lossid 0: 0.33956 lr 0.00100
+Val   Epoch 4, time 1.4, loss 0.45965, lossid 0: 0.45965, Eval L1: 0.60618, Eval L2: 0.45965
+Train Epoch 5, time 1.2, loss 0.23307, lossid 0: 0.23307 lr 0.00100
+Val   Epoch 5, time 1.4, loss 0.37538, lossid 0: 0.37538, Eval L1: 0.53190, Eval L2: 0.37538
+Train Epoch 6, time 1.3, loss 0.39770, lossid 0: 0.39770 lr 0.00100
+Val   Epoch 6, time 1.6, loss 0.25823, lossid 0: 0.25823, Eval L1: 0.43959, Eval L2: 0.25823
+Train Epoch 7, time 1.5, loss 0.38066, lossid 0: 0.38066 lr 0.00100
+Val   Epoch 7, time 1.5, loss 0.39637, lossid 0: 0.39637, Eval L1: 0.57095, Eval L2: 0.39637
+Train Epoch 8, time 1.5, loss 0.44337, lossid 0: 0.44337 lr 0.00100
+Val   Epoch 8, time 1.5, loss 0.46085, lossid 0: 0.46085, Eval L1: 0.58118, Eval L2: 0.46085
+Train Epoch 9, time 1.4, loss 0.33562, lossid 0: 0.33562 lr 0.00100
+Val   Epoch 9, time 1.2, loss 0.37698, lossid 0: 0.37698, Eval L1: 0.53090, Eval L2: 0.37698
+Train Epoch 10, time 1.6, loss 0.32709, lossid 0: 0.32709 lr 0.00100
+
+ -------------------------Namespace(batch_size=32, debug=False, epochs=30, gpu='0', loadw='', loss='l2_im_naive', lr=None, model='full', optimizer='adam', resume='', save_dir='', save_freq=5, start_epoch=0, weight_decay=0.001, workers=32)Train Epoch 1, time 2.1, loss 0.35671, lossid 0: 0.35671 lr 0.00100
+Val   Epoch 1, time 1.2, loss 0.37282, lossid 0: 0.37282, Eval L1: 0.54542, Eval L2: 0.37282
+Train Epoch 2, time 1.5, loss 0.33731, lossid 0: 0.33731 lr 0.00100
+Val   Epoch 2, time 1.3, loss 0.43039, lossid 0: 0.43039, Eval L1: 0.60104, Eval L2: 0.43039
+Train Epoch 3, time 1.3, loss 0.41381, lossid 0: 0.41381 lr 0.00100
+Val   Epoch 3, time 1.3, loss 0.39983, lossid 0: 0.39983, Eval L1: 0.55388, Eval L2: 0.39983
+Train Epoch 4, time 1.5, loss 0.23566, lossid 0: 0.23566 lr 0.00100
+Val   Epoch 4, time 1.4, loss 0.31449, lossid 0: 0.31449, Eval L1: 0.47032, Eval L2: 0.31449
+Train Epoch 5, time 1.6, loss 0.30054, lossid 0: 0.30054 lr 0.00100
+Val   Epoch 5, time 1.5, loss 0.30939, lossid 0: 0.30939, Eval L1: 0.48326, Eval L2: 0.30939
+
+ -------------------------Namespace(batch_size=32, debug=False, epochs=30, gpu='0', loadw='', loss='l2_im_naive', lr=None, model='full', optimizer='adam', resume='', save_dir='', save_freq=5, start_epoch=0, weight_decay=0.001, workers=32)Train Epoch 1, time 8.2, loss 1.23177, lossid 0: 1.23177 lr 0.00100
+Val   Epoch 1, time 2.7, loss 0.53955, lossid 0: 0.53955, Eval L1: 0.61136, Eval L2: 0.53748
+Train Epoch 2, time 7.5, loss 0.51501, lossid 0: 0.51501 lr 0.00100
+Val   Epoch 2, time 2.6, loss 0.37673, lossid 0: 0.37673, Eval L1: 0.52557, Eval L2: 0.37673
+Train Epoch 3, time 7.6, loss 0.43703, lossid 0: 0.43703 lr 0.00100
+Val   Epoch 3, time 2.6, loss 0.30857, lossid 0: 0.30857, Eval L1: 0.46808, Eval L2: 0.30857
+Train Epoch 4, time 7.6, loss 0.39502, lossid 0: 0.39502 lr 0.00100
